@@ -4,7 +4,7 @@ A personal collection of Bond Capital (and Mary Meeker) Internet Trends reports 
 # Source of Reports
 I downloaded these reports from the following address so technically these reports are in the public domain - https://www.bondcap.com/#internettrends
 
-# Why are years 1998, 1999, 2000, and 2020 Missing in my archive?
+# Why are years '98-'00, and '20 Missing in my archive?
 I don't know.
 
 # About the author of the Internet Trends report
